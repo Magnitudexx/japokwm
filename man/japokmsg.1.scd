@@ -27,7 +27,7 @@ japokmsg [options...] [command]
 	Print the version (of japokmsg) and quit.
 
 # Command
-	The command is just lua code that will be executed by japokwm. The scope is
-	Layout local.
+The command is just lua code that will be executed by japokwm. The scope is
+Layout local.
 
 *japokwm*(5)
