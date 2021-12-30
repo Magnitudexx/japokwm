@@ -7,7 +7,7 @@ japokwm-opt(5)
 # Static Methods
 	reload() - reload japokwm config file
 # Methods
-	add_mon_rule(table) ++
+	add_mon_rule(table)
 		add rules for monitors ++
 	add_rule(table)
 		add rules for windows ++
